@@ -1,4 +1,4 @@
-# Unity Data Generation
+# Unity Synthetic Data Generation
 
 참고자료: [Stratospark Unity Image Synthesis Tutorial](https://github.com/stratospark/UnityImageSynthesisTutorial1)
 
